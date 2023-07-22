@@ -1,0 +1,8 @@
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+
+
+<i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+
+<i class="fa-solid fa-link fa-flip-both fa-2xs"></i>
