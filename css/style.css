@@ -382,6 +382,7 @@ p {
 .our_p_img_1 img {
     width: 372px;
     height: 237px;
+    display: block;
 }
 
 .our_p_img_1 .img_overlay {
@@ -499,7 +500,8 @@ p {
 }
 
 .icon i {
-    font-size: large;
+    font-size: 60px;
+    padding-bottom: 30px;
 }
 
 /* waxom video presentation part end here  */
@@ -512,9 +514,10 @@ p {
     width: 475px;
     float: left;
     padding-top: 80px;
+}
+.mobile_device_content .image img{
     display: block;
 }
-
 .m_d_content {
     width: 677px;
     float: left;
